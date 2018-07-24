@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Menu
 
 Pepperoni Pizza 40.00
@@ -7,3 +8,8 @@ Pepperoni Pizza 40.00
 
 Cangreburger   --------------------  $4,00
 >>>>>>> Recipe2
+=======
+Menu
+
+COLOMBIAN EMPANADAS   $ 2.00
+>>>>>>> Recipe3
